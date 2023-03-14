@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karthik160803&theme=synthwave)
